@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 401.56" style="enable-background:new 0 0 1280 401.56;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1E1E1C;}
+	.st1{fill:none;}
+	.st2{font-family:'BarlowSemiCondensed-Light';}
+	.st3{font-size:27.6231px;}
+	.st4{fill:none;stroke:#95C11F;stroke-width:1.8415;stroke-miterlimit:10;stroke-dasharray:2.3204,2.3204;}
+	.st5{fill:#95C11F;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:url(#SVGID_2_);}
+	.st8{fill:none;stroke:#1E1E1C;stroke-width:1.8415;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<rect x="928.07" y="46.03" class="st0" width="6.13" height="21.15"/>
+<rect x="653.33" y="46.03" class="st0" width="6.13" height="21.15"/>
+<g>
+	<rect x="704.7" y="73.57" class="st1" width="176.11" height="37.92"/>
+	<text transform="matrix(1 0 0 1 737.4917 92.906)" class="st0 st2 st3">Vuelo libre</text>
+</g>
+<g>
+	<rect x="712.18" y="20.62" class="st1" width="176.11" height="37.92"/>
+	<text transform="matrix(1 0 0 1 713.2173 39.9612)" class="st0 st2 st3">Avanza 3 metros</text>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="671.35" y1="56.61" x2="914.16" y2="56.61"/>
+		<g>
+			<polygon class="st5" points="676.53,63.43 673.62,56.61 676.53,49.79 660.36,56.61 			"/>
+		</g>
+		<g>
+			<polygon class="st5" points="908.98,63.43 911.88,56.61 908.98,49.79 925.15,56.61 			"/>
+		</g>
+	</g>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="829.3373" y1="217.795" x2="933.5751" y2="307.8011" gradientTransform="matrix(1 0 0 -1 0 388.2684)">
+	<stop  offset="0.0189" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.4426" style="stop-color:#95C11F"/>
+</linearGradient>
+<path class="st6" d="M820.99,152.73l11.87-4.24c12.27-6.45,23.87-18.79,37.81-29.29c19.9-14.99,34.23-35.97,38.21-38.97
+	c3.98-3,13.54-0.14,15.01,3.42c1.28,3.09-2.28,8.57-7.85,10.82c-5.57,2.25-17.51,35.97-23.88,45.71c-4.05,6.2-55,46.55-55,46.55"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="756.7772" y1="220.977" x2="684.9542" y2="269.1869" gradientTransform="matrix(1 0 0 -1 0 388.2684)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#006633"/>
+</linearGradient>
+<path class="st7" d="M761.71,187.75l-15.66-5.38c0,0-11.14-3-35.02-22.48s-44.58-51.7-50.15-59.95s-6.37-9.74,0-17.23
+	c6.37-7.49,11.94,11.24,11.14,14.99s32.64,26.98,51.74,38.97c10.01,6.28,21.15,11.77,32.6,13.91c2.82,0.53,6.53,1.05,10.64,1.53"/>
+<path class="st8" d="M845.49,182.24"/>
+<path class="st8" d="M761.71,187.62l-15.66-5.38c0,0-11.14-3-35.02-22.48s-44.58-51.7-50.15-59.95c-5.57-8.24-6.37-9.74,0-17.23
+	c6.37-7.49,11.94,11.24,11.14,14.99s32.64,26.98,51.74,38.97c10.01,6.28,21.15,11.77,32.6,13.91c11.29,2.11,36.69,4.07,45.78,4.07
+	c5.72,0,13.61,0.98,18.85-1.78l11.87-4.24c12.27-6.45,23.87-18.79,37.81-29.29c19.9-14.99,34.23-35.97,38.21-38.97
+	c3.98-3,13.54-0.14,15.01,3.42c1.28,3.09-2.28,8.57-7.85,10.82c-5.57,2.25-17.51,35.97-23.88,45.71c-4.05,6.2-55,46.55-55,46.55
+	c-1.59,11.24-28.66,43.46-22.29,44.96s31.84,28.47,36.62,36.72s0.8,38.97,0.8,38.97s1.59,3.75,9.55,10.49s2.8,18.25-2.39,20.33
+	c-2.93,1.17-7.16-5.34-11.94-12.09s-8.76-3-14.33-8.99s-3.18-23.98-5.57-36.72s-36.07-25.48-36.07-25.48s11.4,21.73,12.99,29.97
+	c1.59,8.24-4.78,21.73-4.78,28.47s3.98,11.99,3.98,19.48s-13.53,6.74-19.9,0s-8.76-20.23-7.16-36.72
+	c1.59-16.49-4.78-32.22-12.74-49.46c-7.96-17.23-1.59-64.44-1.59-64.44"/>
+<path class="st8" d="M777.64,152.73c0,0,4.04-13.26,26.4-11.44c9.77,0.8,16.95,11.44,16.95,11.44"/>
+</svg>

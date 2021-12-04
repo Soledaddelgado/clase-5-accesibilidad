@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 283.5 229" style="enable-background:new 0 0 283.5 229;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Roboto-Regular', sans-serif;}
+	.st1{font-size:6px;}
+	.st2{fill:#95C11F;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.7079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:0.7079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-width:0.7079;stroke-miterlimit:10;}
+	.st6{fill:none;}
+	.st7{fill:#1E1E1C;}
+	.st8{font-size:7px;}
+	.st9{fill:none;stroke:#95C11F;stroke-width:0.3405;stroke-miterlimit:10;}
+		@keyframes mueve {
+            0% {
+                transform: rotate(-0.009turn);
+            }
+            100% {
+                transform: rotate(0, 0);
+            }
+        }
+
+            #dedo {
+            transform-origin: center;
+            animation: mueve 2s infinite alternate;
+        }
+</style>
+<g id="numeros">
+	<text transform="matrix(1 0 0 1 89.7602 83.7882)" class="st0 st1">I</text>
+	<text transform="matrix(1 0 0 1 126.119 37.649)" class="st0 st1">II</text>
+	<text transform="matrix(1 0 0 1 140.3197 37.649)" class="st0 st1">III</text>
+	<text transform="matrix(1 0 0 1 152.9691 42.4015)" class="st0 st1">IV</text>
+	<text transform="matrix(1 0 0 1 164.227 59.8028)" class="st0 st1">V</text>
+</g>
+<g id="dedo">
+	<g>
+		<polygon class="st2" points="133.4,56.7 146,56.7 145.9,95.1 135.8,94.9 134.2,87.3 133,73.9 132.7,56.9 		"/>
+		<path class="st3" d="M135.8,94.9c-0.8-1-0.8-4.7-0.8-4.7l-1.3-11.6l-0.5-21.7c0,0,2.8-15.8-4.7-15.8c-7.3,0-4.7,14.5-4.7,14.5
+			s0.5,20.8-0.4,24.9c-0.7,3.3-0.3,12.4-0.2,15.9l0.2,1.3"/>
+	</g>
+	<path class="st3" d="M126.9,57c0,0,1.6,0.8,3.1,0.6s2.6-0.6,2.6-0.6"/>
+</g>
+<g id="mano">
+	<path class="st4" d="M136.9,94.5c0.4-1,0.5-2.6,0.5-2.6V57.2c0,0-4.6-16.6,5.6-15.9c8.7,0.6,3.4,17,3.4,17l-0.2,34.3
+		c0,0-0.2,3.9,0.8,3.9c1.2,0,1.3-2.8,1.3-2.8l1.3-35.1c0,0-2-13.8,5.5-12.9c4,0.4,4.4,2.9,4.9,5.8c0.5,2.9-1.9,7.9-1.9,7.9V95
+		c0,0-0.2,6.1,1.3,6.1c1-0.1,1.1-2.1,1.1-2.1l0.8-22.7c0,0-3.3-13,3.4-12.9c8.3,0.2,4,11.9,4,11.9s0,32.9,0,39c0,0-7,31.1-6.1,49
+		c1,17.9,2.1,38.6-3.2,50c-2.2,4.6-7.7,8.3-19.9,4.5c-12.2-3.8-15-30.1-17.6-41.6c-2.6-11.5-18.3-23.7-31.5-36.5s-6.7-35.8-6.7-35.8
+		s-4.6-20.2,9-18.1c10.3,1.6,5.2,19.3,5.2,19.3s-1.1,2.9,0.7,4.5c1.8,1.6,4.3,4.6,3.8,7.5c-0.5,2.9-1.3,5.2-1.3,5.2s4.1-1.5,7.5,1.3
+		c3.4,2.8,3.1,4.4,3.1,4.4s2.8-1.6,4.7-0.2c2,1.5,3.9,4.6,3.9,4.6l2.1-1.3c0,0-6.1-7-4.3-18.1c1.8-11.1,4.9-15.5,4.9-15.5"/>
+	<path class="st5" d="M122.3,131c0,0,5,12.7,3.5,22"/>
+	<path class="st3" d="M123.3,97.3c0,0,8.7-0.9,20.7,2.6c11.9,3.5,21.1,8.4,21.1,8.4"/>
+	<path class="st3" d="M140.3,58.3c0,0,1.6,0.8,3.1,0.6c1.5-0.1,2.6-0.6,2.6-0.6"/>
+	<path class="st3" d="M151.8,59.8c0,0,1.6,0.8,3.1,0.6s2.6-0.6,2.6-0.6"/>
+	<path class="st3" d="M162.8,75c0,0,1.6,0.8,3.1,0.6c1.5-0.1,2.6-0.6,2.6-0.6"/>
+	<path class="st3" d="M86.7,107.6c0,0,3.1,0.8,5.8,0.6c2.7-0.1,4.9-0.6,4.9-0.6"/>
+</g>
+<g>
+	<rect x="159" y="12" class="st6" width="55.6" height="22.3"/>
+	<text transform="matrix(1 0 0 1 161.2406 15.8028)" class="st7 st0 st8">Membrana interdigital </text>
+	<text transform="matrix(1 0 0 1 161.0922 22.1739)" class="st7 st0 st8">entre dedos II y III (se </text>
+	<text transform="matrix(1 0 0 1 160.2074 28.5445)" class="st7 st0 st8">desconoce su función)</text>
+</g>
+<g>
+	<g>
+		<polyline class="st9" points="162.3,17.6 136,17.6 136,22.8 		"/>
+		<g>
+			<polygon class="st2" points="134.8,21.9 136,22.4 137.3,21.9 136,24.8 			"/>
+		</g>
+	</g>
+</g>
+</svg>

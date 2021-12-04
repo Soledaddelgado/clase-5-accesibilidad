@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 289.5 176" style="enable-background:new 0 0 289.5 176;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Roboto-Regular', sans-serif;}
+	.st2{font-size:8px;}
+	.st3{fill:none;stroke:#95C11F;stroke-width:13.0531;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{fill:#888483;}
+	.st6{fill:none;stroke:#888483;stroke-width:0.4662;stroke-linecap:round;stroke-linejoin:round;}
+	.st7{opacity:0;}
+	.st8{fill:#1E1E1C;}
+	.st9{font-family:'Roboto', sans-serif;}
+
+#valores{
+	opacity:0; transition:all ease 0.25s
+}
+	svg:hover #valores{opacity:1; transition:all ease 0.25s}
+
+</style>
+<g id="Capa_1_1_">
+	<text transform="matrix(1 0 0 1 109.811 122.7033)" class="st0 st1 st2">Monogamia</text>
+	<polygon id="triangulo" class="st3" points="209.8,138.2 76.3,138.2 143.1,22.6 	"/>
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_1_" cx="146.5" cy="95.4" r="28.9"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st4">
+					<path class="st5" d="M98.1,102.9c9.2,16.2,26,23.5,43.2,28.4c8.8,2.5,17.7,4.6,26.6,7c0.2-2.9-0.5-8.4-0.3-11.7
+						c0.1-3.4-1.1-10.7-0.6-17.2c0.6-6.5,0.1-9.1-1-11.1s-0.1-4-0.3-6.8c-0.1-2.8,0.2-8-1.5-10.7c-1.7-2.6-6.4-6.4-8.3-7.9
+						c-2-1.5-2.6-2.1-4-2.3c-1.8-0.2-3.4-0.3-5.2-0.3c-0.1,0-0.2,0-0.3,0c-2-0.7-4.1-0.7-6.2,0c-3.1,1.1-10.5,6.8-12.5,7.3
+						c-1.2,0.3-2.4,0.7-3.6,1.1c-0.1,0-0.2,0.1-0.3,0.2c-0.5,0.4-0.6,1-0.3,1.5c0.7,0.9,1.4,2.2,0.7,2.8c-0.9,1-4.2,1.4-5.9,0.8
+						c-1.7-0.6-3.2-0.4-5.7,1.1s-7.1,5.4-9.7,7.1c-1.9,1.2-5.6,5.4-9,8.8C95.7,100.7,97.3,101.3,98.1,102.9z"/>
+					<path class="st0" d="M153.2,82.4c-1.9,0.3-3.1-0.7-4.8-1.2c-8.4-2.4-8,6.5-6.8,7.6c1.2,1,3.1,2.1,3.5,2.4
+						c0.5,0.4-1.2,0-2.6,2.3c-1.4,2.3-1.9,4.1-1.1,6.4c0.8,2.5,2.7,4.5,5.2,5.5c2.9,1.4,4.8,1.2,7.2,0c2.3-1.2,4.6-4.8,4.7-6.5
+						c0.1-1.8-1.8-6.4-1.8-6.4s6.8-0.7,4.8-6.8C160.3,82.2,157.3,81.8,153.2,82.4z"/>
+					<path class="st6" d="M145,96.9c0,0,4.7-0.2,7.3,0.7c1.1,0.3,2.1,0.7,3.2,1.4"/>
+					<line class="st6" x1="150.9" y1="92.9" x2="152.1" y2="95"/>
+					<line class="st6" x1="154.4" y1="93.6" x2="153.6" y2="95.4"/>
+					<path class="st5" d="M143.6,85.2c1.1-0.5,2.2-0.7,3.4-0.6c0.9,0.2,3.3,2.1,3.3,2.1s-1.3,0.6-4.2,0.2
+						C145.3,86.9,143.6,85.2,143.6,85.2z"/>
+					<circle class="st0" cx="146.5" cy="85.8" r="1"/>
+					<circle class="st5" cx="146.5" cy="85.4" r="0.4"/>
+					<path class="st5" d="M154.2,86.4c0.8-0.6,1.8-0.8,2.7-0.7c0.9,0.1,1.8,0.7,2.1,1.6c-0.6,0.7-1.5,1.1-2.4,0.9
+						C155.6,87.9,154.7,87.3,154.2,86.4z"/>
+					<circle class="st0" cx="156.7" cy="86.9" r="1"/>
+					<circle class="st5" cx="156.7" cy="86.5" r="0.4"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="valores" class="st7">
+	<g id="alturas">
+		<g id="_Cada_2_a_3_años">
+			<text transform="matrix(0.5014 0.8652 -0.8652 0.5014 171.3838 50.0816)" class="st8 st1 st2">Cada 2 a 3 años</text>
+		</g>
+	</g>
+	<text transform="matrix(0.4907 -0.8713 0.8713 0.4907 85.5405 101.2239)" class="st8 st1 st2">7 a 8 meses</text>
+	<text transform="matrix(1 0 0 1 100.6268 153.2022)" class="st8 st1 st2"> 40 años (en cautiverio)</text>
+</g>
+<g id="etapas">
+	<text transform="matrix(0.5014 0.8652 -0.8652 0.5014 161.9541 60.0865)" class="st0 st9 st2">Apareamiento</text>
+	<text transform="matrix(0.4907 -0.8713 0.8713 0.4907 100.6267 101.2239)" class="st0 st9 st2">Gestación</text>
+	<text transform="matrix(1 0 0 1 108.0962 140.4119)" class="st0 st9 st2">Expectativa de vida</text>
+</g>
+</svg>
